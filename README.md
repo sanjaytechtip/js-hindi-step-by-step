@@ -1,4 +1,4 @@
-# js-hindi-youtube
+# js-hindi-step-by-step
 A code repo for javascript series at Chai aur code youtube channel
 
 ---
